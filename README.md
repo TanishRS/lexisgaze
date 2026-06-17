@@ -7,8 +7,8 @@ Build a search tool for a company's internal documents. It needs to organise doc
 
 ## Live demo
 
-- **Live link:** _<add your Vercel/Netlify URL here>_
-- **Repository:** _<add your GitHub URL here>_
+- **Live demo:** https://lexisgaze.vercel.app
+- **Repository:** https://github.com/TanishRS/lexisgaze
 
 ## Tech stack
 
