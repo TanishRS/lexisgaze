@@ -9,6 +9,7 @@ Build a search tool for a company's internal documents. It needs to organise doc
 
 - **Live demo:** https://lexisgaze.vercel.app
 - **Repository:** https://github.com/TanishRS/lexisgaze
+- - **LISA Documentation:** [docs/LexisGaze_LISA_Documentation.pdf](docs/LexisGaze_LISA_Documentation.pdf)
 
 ## Tech stack
 
