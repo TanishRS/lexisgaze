@@ -1,8 +1,3 @@
-// dsa.js — the algorithmic core of LexisGaze.
-// Every "Must Have" feature is implemented here with the data structure or
-// algorithm it maps to, kept separate from the React UI so the DSA is easy to
-// point at during a viva.
-
 import { DOC_MAP, SERVER_COUNT, djb2 } from "./data.js";
 
 // ─────────────────────────────────────────────────────────────────────────
